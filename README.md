@@ -12,5 +12,5 @@
 
 #Time
 
- <img loading="lazy" src="">
+ <img loading="lazy" src="./img/andres-lego.jpg">
 // Código omitido. 
