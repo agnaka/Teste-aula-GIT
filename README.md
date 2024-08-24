@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-#Time
+# Time
 
  <img loading="lazy" src="./img/andres-lego.jpg" width=115 alt= "img/Boca-lego.jpg"> </br> <sub>Andrés Nakagawa</sub> </br> <sub>agnaka</sub>
  
