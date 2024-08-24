@@ -12,5 +12,5 @@
 
 #Time
 
- | [<img loading="lazy" src="./img/andres-lego.jpg" width=115> </br> <sub>Andrés Nakagawa</sub>].(/img/Boca-lego.jpg" width=115> </br> <sub>agnaka</sub>) |
+ <img loading="lazy" src="./img/andres-lego.jpg" width=115 alt= "img/Boca-lego.jpg"> </br> <sub>Andrés Nakagawa</sub> </br> <sub>agnaka</sub>
  
